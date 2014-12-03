@@ -1,1 +1,1 @@
-python ~/Dropbox/bin/tview.py $1 | less -S
+python $TVIEW_HOME/tview.py $1 | less -S
