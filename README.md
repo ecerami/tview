@@ -5,6 +5,13 @@ Easily Preview Tab Delimited Files.
 
 To use:
 
-add TVIEW_HOME to your bash environment.  For example, modify your .bash_profile:
+1.  Place both files within a bin directory, such as ~/bin
+    
+2.  Add TVIEW_HOME to your bash environment.  For example, modify your .bash_profile:
+        export TVIEW_HOME=~/bin/tview
+ 
+To run:
 
-    export TVIEW_HOME=~/Dropbox/bin/tview
+    tview XXXX
+    
+    
